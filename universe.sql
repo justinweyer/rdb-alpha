@@ -418,7 +418,7 @@ ALTER TABLE ONLY public.galaxy
 ALTER TABLE ONLY public.moon
     ADD CONSTRAINT moon_name_key UNIQUE (name);
 
-
+--
 --
 -- Name: moon moon_pkey; Type: CONSTRAINT; Schema: public; Owner: freecodecamp
 --
